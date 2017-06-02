@@ -1,3 +1,14 @@
+.metadata/
+.recommenders/
+PvPArenaHelper/.externalToolBuilders
+PvPArenaHelper/.settings/
+PvPArenaHelper/bin/
+PvPArenaHelper/target/
+PvPArenaHelper/.classpath
+PvPArenaHelper/.project
+PvPArenaHelper/build.xml
+.gitignore
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

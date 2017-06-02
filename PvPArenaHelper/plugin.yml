@@ -1,0 +1,9 @@
+main: com.commandblockguy.arena.Main
+name: PvPArena
+version: 1.0
+author: commandblockguy
+description: Helps with scheduled PvP events
+load: STARTUP
+commands:
+  pvp:
+    description: Access PvP commands
